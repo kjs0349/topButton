@@ -15,7 +15,6 @@ window.addEventListener('scroll', function () {
             topButton.classList.remove('action');
         }
     }
-
 })
 
 topButton.addEventListener('click', function (e) {
@@ -32,3 +31,5 @@ function scrollUp() {
         }
     }, 10);
 }
+
+console
